@@ -9,9 +9,9 @@ This repo will be used to document a popular solution for data management using 
 
 | Function            | Name                   | Version          | Source           | Format                                                |
 | ------------------- | ---------------------- | ---------------- | ---------------- | ----------------------------------------------------- |
-| Data Integration    | apache kafka           | 3.7.1            | bitnami          | [helm](https://bitnami.com/stack/kafka/helm){:target="_blank" rel="noopener"} |
+| Data Integration    | apache kafka           | 3.7.1            | bitnami          | [helm](https://bitnami.com/stack/kafka/helm)          |
 | Data Integration    | apache nifi            | X.Y.Z            |           |      |
-| Data Transormation  | apache spark           | 3.5.1            | bitnami          | [helm](https://bitnami.com/stack/spark/helm){:target="_blank" rel="noopener"} |
+| Data Transormation  | apache spark           | 3.5.1            | bitnami          | [helm](https://bitnami.com/stack/spark/helm)          |
 | Data Transormation  | apache spark streaming | 3.5.1            |                  | included in the spark chart                           |
 | Data Transormation  | jupyter hub            | 4.1.5            | bitnami          | [helm](https://bitnami.com/stack/jupyterhub/helm)     |
 | Analytics           | trino                  | X.Y.Z            |           |      |
