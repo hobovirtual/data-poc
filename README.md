@@ -1,8 +1,11 @@
 # Data Infrastructure Concept
 
-This repo will be used to document a popular solution for data management using opensource projects running on kubernetes
+This repo will be used to document a popular solution for data management using Open Source Project (aka oss) projects running on kubernetes
 
-## Solutions
+## Overview
+![overview](images/overview.jpg)
+
+## List of Open Source Projects that will be installed
 
 | Function            | Name                   | Version          | Source           | Format                                                |
 | ------------------- | ---------------------- | ---------------- | ---------------- | ----------------------------------------------------- |
